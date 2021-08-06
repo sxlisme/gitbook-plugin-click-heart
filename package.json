@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-click-heart",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "gitbook 点击爱心特效",
   "main": "index.js",
   "scripts": {
